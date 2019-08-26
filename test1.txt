@@ -1,2 +1,2 @@
 add 1 line
-add 2 line too
+add 2 line
